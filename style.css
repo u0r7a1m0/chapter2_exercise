@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+body{
+  padding-left:10px;
+  padding-top:20px;
+}
+h1{
+  color: orange;
+  padding-bottom: 10px;
+}
+h2, p{
+  padding-bottom: 20px;
+}
+h2{
+  padding-top: 20px;
+}
